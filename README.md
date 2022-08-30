@@ -30,3 +30,9 @@ This plugin is intended to minimize looking away from the game for solutions to 
 4. Click on the letters highlighted in red
    - Example: If the solution is AMD, you need to click on the letter A first, then M, then D
 5. If the puzzle is not solved on the final letter, just run all the way North from where ever you are
+
+## Other
+
+If you don't want the long instruction steps anymore, you can turn on the simplified solution in the plugin config.
+
+![image](https://user-images.githubusercontent.com/17418745/187561411-143ed550-b0f5-4877-9ac9-6fdd47514eb5.png)
