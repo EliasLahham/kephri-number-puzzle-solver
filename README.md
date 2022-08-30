@@ -24,7 +24,7 @@ This plugin is intended to minimize looking away from the game for solutions to 
 1. Click on the ancient tablet
 2. A message should appear in your chat box
 
-![image](https://user-images.githubusercontent.com/17418745/187560995-fb041b76-6205-4cea-b95f-82e087f64ebc.png)
+![image](https://user-images.githubusercontent.com/17418745/187564050-729cffd1-6f63-4104-a0ff-a61c5a1c82c3.png)
 
 3. Start on the tile in front of the ancient table
 4. Click on the letters highlighted in red
