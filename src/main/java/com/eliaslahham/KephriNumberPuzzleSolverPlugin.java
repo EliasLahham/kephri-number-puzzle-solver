@@ -107,7 +107,7 @@ public class KephriNumberPuzzleSolverPlugin extends Plugin
 				client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "Solution: " + solution, null);
 			} else {
 				client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "<col=e00a19>Step 1:</col> Start on the tile in front of the ancient tablet.", null);
-				client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "<col=e00a19>Step 2:</col> Click on the follow letter(s) in order: " + solution, null);
+				client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "<col=e00a19>Step 2:</col> Click on the following letter(s) in order: " + solution, null);
 				client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "<col=e00a19>Step 3:</col> If it's still not solved, run North towards the door.", null);
 			}
 		}
